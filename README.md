@@ -25,7 +25,8 @@ Fig 1 : Staring page
 Fig 2 : Game grid
 
 
-![Uploading Win.jpg…]()
+![Win](https://github.com/Raisul-Islam-Rony/Diamond-Chase/assets/70333440/a75da4d1-d3ea-4662-9743-a9ec64bf8716)
+
 
 
 Fig 3 : If user wins then it will pop up
