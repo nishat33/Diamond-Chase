@@ -7,3 +7,7 @@ Created on Sun Feb 16 02:18:42 2025
 
 a =['today', 'is', 'SWE', 'lab']
 print (a)
+
+
+b= ['20', 'students', 'are', 'absent']
+print(b)
